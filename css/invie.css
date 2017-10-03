@@ -212,7 +212,7 @@ th,
 td {
     border: 1px solid #273b47;
     border-collapse: collapse;
-
+}
 -@media screen and (max-width:600px) {
  +@media screen and (max-width: 767px){
  +  /* Footer */
